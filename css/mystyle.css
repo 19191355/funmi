@@ -1,0 +1,68 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #433;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  </style>
+  </head>
+  <body>
+  
+  <div class="header">
+    <h2>Scroll Down</h2>
+    <p>Scroll down to see the sticky effect.</p>
+  </div>
+  
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+
+
+
+  .b0{background-color: #2c3e50; font-family:'Dancing Script', cursive}
+  .h0{color: #33CCCC; font-family: 'Kenia', sans-serif}
+  .h02{color: #2980B9;font-family: 'Kalam', cursive;}
+  .b2{background-color: #e36161;font-family:'Dancing Script', cursive}
+  .h2{color:#ECAB69 ;font-family: 'Kenia', sans-serif}
+  .h22{color: #E1EB71;font-family: 'Kalam', cursive}
+   b3{background-color:#D25380 ; font-family:'Dancing Script', cursive}
+  .h3{color: #F6C391;font-family: 'Kenia', sans-serif}
+  .h32{ color:#2c3e50 ;font-family: 'Kalam', cursive;}
+  .b4{background-color:#7D7C ;font-family:'Dancing Script', cursive}
+  .h4{color: #CCC8AA; font-family: 'Kenia', sans-serif}
+  .h42{color: #F1EFEF;font-family: 'Kalam', cursive}
+  .b5{background-color:#FACD49; font-family:'Dancing Script', cursive}
+  .h5{color:#F85E9F ; font-family: 'Kenia', sans-serif}
+  h52{color:#5D50C6;font-family: 'Kalam', cursive}
+  .b6{background-color:#4CAF50; font-family:'Dancing Script', cursive}
+  .h6{color: #fbffa8; font-family: 'Kenia', sans-serif;}
+   .img2{ width: 50%;}
+   image{50%}
+   .img1{200%}
+ 
